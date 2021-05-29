@@ -1,3 +1,3 @@
 # hello-pipeline
 
-a repo for me to test and play around for github action
+a repo for me to test and play around for github action.
